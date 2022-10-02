@@ -1,0 +1,15 @@
+D:\bridgeport\windows programming\code\SescriptiveStatics\bin\Debug\net6.0\SescriptiveStatics.exe
+D:\bridgeport\windows programming\code\SescriptiveStatics\bin\Debug\net6.0\SescriptiveStatics.deps.json
+D:\bridgeport\windows programming\code\SescriptiveStatics\bin\Debug\net6.0\SescriptiveStatics.runtimeconfig.json
+D:\bridgeport\windows programming\code\SescriptiveStatics\bin\Debug\net6.0\SescriptiveStatics.dll
+D:\bridgeport\windows programming\code\SescriptiveStatics\bin\Debug\net6.0\SescriptiveStatics.pdb
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.csproj.AssemblyReference.cache
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.AssemblyInfoInputs.cache
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.AssemblyInfo.cs
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.csproj.CoreCompileInputs.cache
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.dll
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\refint\SescriptiveStatics.dll
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.pdb
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\SescriptiveStatics.genruntimeconfig.cache
+D:\bridgeport\windows programming\code\SescriptiveStatics\obj\Debug\net6.0\ref\SescriptiveStatics.dll
