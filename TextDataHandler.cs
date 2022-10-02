@@ -21,7 +21,6 @@ public class TextDataHandler
 
 		while( (data = reader.ReadLine()) != null)
 		{
-			//Console.WriteLine(data);
 			str = str + data + " ";
 		}
 		return str;
